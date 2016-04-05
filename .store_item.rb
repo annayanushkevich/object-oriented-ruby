@@ -15,3 +15,5 @@ items = [
   msds: "do not operate under the influence of drugs or alchohol, do not try to eat"
   }
 ]
+
+print items
