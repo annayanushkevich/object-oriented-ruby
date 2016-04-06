@@ -13,4 +13,6 @@ shoes = [
   }
 ]
 
-p shoes
+shoes.each do |shoe|
+  puts shoe[:material]
+end
